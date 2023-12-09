@@ -1,5 +1,5 @@
 // Don't show bookmark icons
-user_pref("browser.chrome.site_icons", false);
+user_pref("browser.chrome.site_icons", true);
 
 // Hide tabs toolbar
 user_pref("browser.tabs.tabmanager.enabled", false);
