@@ -1,0 +1,6 @@
+#TabsToolbar {
+    visibility: collapse !important;
+}
+
+/* Theme Dracula */
+@import url("../dracula-theme/userChrome/chrome/userChrome.css");
