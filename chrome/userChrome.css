@@ -3,7 +3,7 @@
 }
 
 /* Theme Dracula */
-@import url("../dracula-theme/userChrome/chrome/userChrome.css");
+@import url("dracula-theme/userChrome/chrome/userChrome.css");
 
 /* ShyFox */
-@import url("../ShyFox/userChrome/chrome/userChrome.css");
+@import url("ShyFox/userChrome/chrome/userChrome.css");

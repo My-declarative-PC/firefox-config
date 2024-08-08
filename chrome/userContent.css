@@ -1,5 +1,5 @@
 /* Theme Dracula */
-@import url("../dracula-theme/userChrome/chrome/userContent.css");
+@import url("dracula-theme/userChrome/chrome/userContent.css");
 
 /* ShyFox */
-@import url("../ShyFox/userChrome/chrome/userContent.css");
+@import url("ShyFox/userChrome/chrome/userContent.css");
