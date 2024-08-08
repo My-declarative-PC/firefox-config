@@ -1,0 +1,6 @@
+[submodule "dracula-theme"]
+	path = chrome/dracula-theme
+	url = https://github.com/dracula/firefox.git
+[submodule "ShyFox"]
+	path = chrome/ShyFox
+	url = https://github.com/Naezr/ShyFox.git
